@@ -1,3 +1,3 @@
 def uppercase_string(input_string):
-    '''Преобразует в верхний регистр.'''
+    '''Преобразует.'''
     return input_string.upper()
